@@ -1,0 +1,14 @@
+*.log    # Ignore all .log files
+*.tmp    # Ignore all .tmp files
+
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+
+
+
+				
+
+

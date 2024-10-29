@@ -4,7 +4,8 @@ Here, you'll find projects and resources related to the Introduction to Data Sci
 
 This introductory course has taken me into the world of data science, where I’ve learned the fundamentals of data science, data analytics, and data engineering. These skills help me understand how machine learning is shaping the future of business, healthcare, education, and more.
 
-Feel free to explore, contribute, and connect!
+[Introduction to Data Science - Cisco ](https://www.netacad.com/courses/introduction-data-science?courseLang=en-US
+)
 
 ![Experience Analytics](img/AI.png)
 
