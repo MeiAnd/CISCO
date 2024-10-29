@@ -19,4 +19,4 @@ Feel free to reach out or connect! I’m always open to discussions on cybersecu
 ##INDEX
 
 ### EndPoint Security
-* [Configure Security Features in Windows & Linux](labs/Configure_Security_Features_in_Windows_and_Linux.md)
+* [Configuring  Security Features in Windows & Linux](labs/Configure_Security_Features_in_Windows_and_Linux.md)
