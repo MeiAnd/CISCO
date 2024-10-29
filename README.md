@@ -1,4 +1,4 @@
-###👋 Hello, I'm "Cryptic" — Cybersecurity Professional
+###Hello, I'm "Cryptic" — Cybersecurity Professional
 
 Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a keen interest in network security, threat analysis, and vulnerability assessment. Currently, I am expanding my skill set through the **Cisco Networking Academy’s Junior Cybersecurity Analyst Path**, where I've had the opportunity to dive deep into real-world labs, hands-on scenarios, and critical security concepts.
 
