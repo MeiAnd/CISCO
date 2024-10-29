@@ -1,4 +1,4 @@
-###Hello, I'm "Cryptic" — Cybersecurity Professional
+### Hello, I'm "Cryptic" — Cybersecurity Professional
 
 Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a keen interest in network security, threat analysis, and vulnerability assessment. Currently, I am expanding my skill set through the **Cisco Networking Academy’s Junior Cybersecurity Analyst Path**, where I've had the opportunity to dive deep into real-world labs, hands-on scenarios, and critical security concepts.
 
@@ -16,7 +16,7 @@ Each project reflects my dedication to mastering cybersecurity concepts, and I�
 🌐 Connect with Me
 Feel free to reach out or connect! I’m always open to discussions on cybersecurity, networking, and potential collaboration.
 
-##INDEX
+## INDEX
 
 ### EndPoint Security
 * [Configuring  Security Features in Windows & Linux](labs/Configure_Security_Features_in_Windows_and_Linux.md)

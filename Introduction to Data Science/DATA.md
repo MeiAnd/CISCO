@@ -1,4 +1,4 @@
-##Types of data
+## Types of data
 
 **Data can be categorized into three types:** 
 
@@ -15,11 +15,11 @@ Inferred data is collected about the user without their express input, usually s
 * Predict future conditions.
 
 
-###Ways to Visualize Data
+### Ways to Visualize Data
 
 ![Data visualization](img/data-visualization.png)
 
-###Data Types
+### Data Types
 
 * String
 * Integer
