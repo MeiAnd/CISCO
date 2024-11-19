@@ -22,18 +22,18 @@ Part 4: Develop a Plan to Disseminate and Evaluate Policies
 
 **SUPPORT MATERIAL**
 
-●   [SANS Security Policy Project]
+* [SANS Security Policy Project]
 (https://www.sans.org/security-resources/policies/)
 
-●   [Information Security Policy (video)]
+* [Information Security Policy (video)]
 (https://youtu.be/ZlKgMUOpMf8)
 
-●   [Top Computer Security Vulnerabilities]
+* [Top Computer Security Vulnerabilities]
 (https://www.n-able.com/features/computer-security-vulnerabilities)
 
-●   [Information Security Policy – A Development Guide for Large and Small Companies (pdf)] (https://www.sans.org/reading-room/whitepapers/policyissues/information-security-policy-development-guide-large-small-companies-1331)
+* [Information Security Policy – A Development Guide for Large and Small Companies (pdf)] (https://www.sans.org/reading-room/whitepapers/policyissues/information-security-policy-development-guide-large-small-companies-1331)
 
-●   [Technical Writing for IT Security Policies in Five Easy Steps]
+* [Technical Writing for IT Security Policies in Five Easy Steps]
 (https://www.sans.org/reading-room/whitepapers/policyissues/technical-writing-security-policies-easy-steps-492)
 
 
