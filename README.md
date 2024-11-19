@@ -24,3 +24,7 @@ Feel free to reach out or connect! I’m always open to discussions on cybersecu
 
 ### Cryptography.
 * [Generate and use a Digital Sugnature](labs/Generate_and_Use_a_Digital_Signature.md)
+
+### Governance
+
+* [Developing Cybersecurity Policies & Procedures](labs/Developing_cybersecurity_policies_and_procedures.md)
